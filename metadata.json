@@ -1,0 +1,8 @@
+{
+  "name": "Remix Không Gian Văn Hóa Hồ Chí Minh 3D",
+  "description": "Ứng dụng mô phỏng 3D Không Gian Văn Hóa Hồ Chí Minh tương tác dành cho học sinh tiểu học với triển lãm 3D sinh động, phòng truyền thống, trò chơi câu đố lịch sử và góc học tập thú vị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
